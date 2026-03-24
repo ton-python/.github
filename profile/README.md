@@ -3,7 +3,7 @@
 [![TON](https://img.shields.io/badge/TON-grey?logo=TON&logoColor=40AEF0)](https://ton.org)
 ![Python](https://img.shields.io/badge/Python-3.10%20--%203.14-black?color=FFE873&labelColor=3776AB)
 
-Everything you need to build on TON with Python — in one place, actively developed and regularly updated.
+A complete Python stack for TON Blockchain — from low-level primitives to high-level SDKs, API clients, and AI tooling.
 
 [![tonutils](https://img.shields.io/pypi/v/tonutils.svg?label=tonutils&color=FFE873&labelColor=3776AB)](https://github.com/nessshon/tonutils)
 [![ton-core](https://img.shields.io/pypi/v/ton-core.svg?label=ton-core&color=FFE873&labelColor=3776AB)](https://github.com/nessshon/ton-core)
