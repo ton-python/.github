@@ -7,4 +7,4 @@ A complete Python stack for TON Blockchain — from low-level primitives to high
 [![ton-connect](https://img.shields.io/pypi/v/ton-connect.svg?label=ton-connect&color=0098EA&labelColor=1a1a2e)](https://github.com/nessshon/ton-connect)
 [![ton-mcp](https://img.shields.io/pypi/v/ton-mcp.svg?label=ton-mcp&color=0098EA&labelColor=1a1a2e)](https://github.com/nessshon/ton-mcp)
 [![tonapi](https://img.shields.io/pypi/v/pytonapi.svg?label=tonapi&color=0098EA&labelColor=1a1a2e)](https://github.com/nessshon/tonapi)
-![toncenter](https://img.shields.io/badge/toncenter-coming%20soon-0098EA?labelColor=1a1a2e)
+[![toncenter](https://img.shields.io/pypi/v/toncenter.svg?label=toncenter&color=0098EA&labelColor=1a1a2e)](https://github.com/nessshon/toncenter)
