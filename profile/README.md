@@ -1,4 +1,6 @@
-# TON × Python
+# TON × Python 
+
+![](https://komarev.com/ghpvc/?username=ton-python&style=flat-square&label=views:)
 
 A complete Python stack for TON Blockchain — from low-level primitives to high-level SDKs, API clients, and AI tooling.
 
